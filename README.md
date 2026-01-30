@@ -6,8 +6,6 @@
   <li>🇮🇳 From India</li>
 </ul>
 
-
-
 <img align="right" height="160" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
@@ -39,7 +37,7 @@
 </div>
 
 ###
-<img src="https://github-readme-stats.vercel.app/api?username=priyasahuu&show_icons=true&theme=dracula&hide_border=false&cache_seconds=86400" height="150"/>
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/priya-sahu-/" target="_blank">
