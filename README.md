@@ -1,4 +1,11 @@
-<h2 align="left">Hi 👋! My name is Priya Sahu and I'm a CSE Student & Data Analytics Enthusiast, from India 🇮🇳</h2>
+<ul align="left">
+  <li>👋 Hi! My name is <b>Priya Sahu</b></li>
+  <li>🏫 College: <b>Vellore Institute of Technology Bhopal</b></li>
+  <li>🎓 Branch: <b>CSE (Computer Science & Engineering)</b></li>
+  <li>📊 Domain: <b>Data Analytics Enthusiast</b></li>
+  <li>🇮🇳 From India</li>
+</ul>
+
 
 
 <img align="right" height="160" src="https://i.imgflip.com/65efzo.gif"  />
