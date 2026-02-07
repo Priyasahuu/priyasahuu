@@ -9,7 +9,7 @@
 <img align="right" height="160" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
-
+Programming Languages:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
   <img width="12" />
@@ -27,7 +27,7 @@
 </div>
 
 ###
-
+ADD ME ON :
 <div align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="35" alt="powerbi" />
   <img width="10" />
