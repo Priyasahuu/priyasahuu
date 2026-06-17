@@ -6,7 +6,7 @@
   <li>🇮🇳 From India</li>
 </ul>
 
-<img align="right" height="160" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 ###
 Programming Languages:
